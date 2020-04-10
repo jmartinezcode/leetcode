@@ -29,7 +29,7 @@
 
 // Can you solve it in O(N) time and O(1) space?
 
-//Time Complexity: O(M+N), where M, N are lengths of S and T respectively.
+// Time Complexity: O(M+N), where M, N are lengths of S and T respectively.
 // Space Complexity: O(1).
 public class Solution {
   public bool BackspaceCompare(string S, string T) {

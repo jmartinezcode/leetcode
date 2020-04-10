@@ -29,6 +29,8 @@
 
 // Can you solve it in O(N) time and O(1) space?
 
+//Time Complexity: O(M+N), where M, N are lengths of S and T respectively.
+// Space Complexity: O(1).
 public class Solution {
   public bool BackspaceCompare(string S, string T) {
     int S_pointer = S.Length - 1;
@@ -36,9 +38,9 @@ public class Solution {
     int S_skips = 0;
     int T_skips = 0;
     
-    while (S_pointer >= 0 || T_pointer >= 0) {
+    while (S_pointer >= 0 || T_pointer >= 0) { // While there may be chars in build(S) or build (T)
         
-      while (S_pointer >= 0) {
+      while (S_pointer >= 0) { // Find position of next possible char in build(S)
         if (S[S_pointer] == '#') {
           S_skips++;
           S_pointer--;
@@ -49,7 +51,7 @@ public class Solution {
           break;
         }
       }                
-      while (T_pointer >= 0) {
+      while (T_pointer >= 0) { // Find position of next possible char in build(T)
         if (T[T_pointer] == '#') {
           T_skips++;
           T_pointer--;
@@ -60,9 +62,11 @@ public class Solution {
           break;
         }
       } 
+      // If two actual characters are different
       if (S_pointer >= 0 && T_pointer >= 0 && S[S_pointer] != T[T_pointer]) {
         return false;
       }
+      // If expecting to compare char vs nothing
       if ((S_pointer >= 0) != (T_pointer >= 0)) {
         return false;
       }

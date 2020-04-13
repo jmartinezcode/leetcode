@@ -10,6 +10,7 @@
 |175| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | SQL|
 |202| [Happy Number](https://leetcode.com/problems/happy-number) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Happy%20Number.cs)
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+|525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/contiguous_array.py)
 |543| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Diameter%20of%20Binary%20Tree.cs)
 |844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Backspace%20String%20Compare.cs) |
 |876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|--|

@@ -13,3 +13,4 @@
 |543| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Diameter%20of%20Binary%20Tree.cs)
 |844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Backspace%20String%20Compare.cs) |
 |876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|--|
+|1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/last_stone_weight.py)

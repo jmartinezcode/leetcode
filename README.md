@@ -2,6 +2,7 @@
 
 | # | Title | Solution | 
 | ------: | ------ | :------: |
+|33| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/search_in_rotated_sorted_array.py)
 |49| [Group Anagrams](https://leetcode.com/problems/group-anagrams)|--| 
 |53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray)| [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Maximum%20Subarray.cs) |
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/minimum_path_sum.py)

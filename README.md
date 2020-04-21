@@ -15,13 +15,12 @@
 |202| [Happy Number](https://leetcode.com/problems/happy-number) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Happy%20Number.cs) |
 |238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/product_of_array_except_self.py)
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes)
-|525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/contiguous_array.py)
-
+|525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/contiguous_array.py) 
 |543| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Diameter%20of%20Binary%20Tree.cs) |
-|678| [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/valid_parenthesis_string.py) |
+|678| [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/valid_parenthesis_string.py) |
 |844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Backspace%20String%20Compare.cs) |
 |876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|--|
 |1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/contstruct_bst_from_preorder_traversal.py)
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/last_stone_weight.py)
 |--| [Perform String Shifts]() | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/perform_string_shifts.py)
-|--| [Leftmost Column with at Least a One](https://github.com/jmartinezcode/leetcode/blob/master/python/leftmost_column_with_at_least_a_one.py)
+|--| [Leftmost Column with at Least a One]() | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/leftmost_column_with_at_least_a_one.py)

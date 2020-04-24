@@ -9,6 +9,8 @@
 |64| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python]()
 |122| [Best Time To Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cs)|
 |136| [Single Number](https://leetcode.com/problems/single-number) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Single%20Number.cs)
+|1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/lru_cache.py)
+|146| [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python]()
 |155| [Min Stack](https://leetcode.com/problems/min-stack/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Min%20Stack.cs)
 |175| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | SQL|
 |200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/number_of_islands.py)

@@ -8,6 +8,7 @@
 |55| [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/jump_game.py)
 |64| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python]()
 |122| [Best Time To Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cs)|
+|124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/binary_tree_maximum_path_sum.py)
 |136| [Single Number](https://leetcode.com/problems/single-number) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Single%20Number.cs)
 |146| [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/lru_cache.py)
 |155| [Min Stack](https://leetcode.com/problems/min-stack/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Min%20Stack.cs)

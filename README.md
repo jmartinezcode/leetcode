@@ -31,3 +31,4 @@
 |--| [Perform String Shifts]() | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/perform_string_shifts.py)
 |--| [Leftmost Column with at Least a One]() | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/leftmost_column_with_at_least_a_one.py)
 |--| [First Unique Number]() | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/first_unique_number.py)
+|--| Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/valid_sequence_binary_tree.py)

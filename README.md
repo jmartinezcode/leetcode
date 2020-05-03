@@ -20,6 +20,7 @@
 |238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/product_of_array_except_self.py)
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/first_bad_version.py)
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+|383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/ransom_note.py)
 |525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/contiguous_array.py) 
 |543| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Diameter%20of%20Binary%20Tree.cs) |
 |560| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/subarray_sum_equals_k.py)

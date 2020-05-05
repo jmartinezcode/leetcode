@@ -21,6 +21,7 @@
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/first_bad_version.py)
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/ransom_note.py)
+|387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/first_unique_character.py)
 |476| [Number Complement](https://leetcode.com/problems/number-complement/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/number_complement.py)
 |525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/contiguous_array.py) 
 |543| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Diameter%20of%20Binary%20Tree.cs) |

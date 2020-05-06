@@ -12,6 +12,7 @@
 |136| [Single Number](https://leetcode.com/problems/single-number) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Single%20Number.cs)
 |146| [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/lru_cache.py)
 |155| [Min Stack](https://leetcode.com/problems/min-stack/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Min%20Stack.cs)
+|169| [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/majority_element.py)
 |175| [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | SQL|
 |200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/number_of_islands.py)
 |201| [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/bitwise_and_of_numbers_range.py)

@@ -31,6 +31,7 @@
 |771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/jewels_and_stones.py)
 |844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [C#](https://github.com/jmartinezcode/leetcode/blob/master/csharp/Backspace%20String%20Compare.cs) |
 |876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|--|
+|993| [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/cousins_in_binary_tree.py)
 |1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/contstruct_bst_from_preorder_traversal.py)
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/last_stone_weight.py)
 |1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/longest_common_subsequence.py)

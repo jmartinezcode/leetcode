@@ -35,6 +35,7 @@
 |1008| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/contstruct_bst_from_preorder_traversal.py)
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/last_stone_weight.py)
 |1143| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/longest_common_subsequence.py)
+|1232| [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/check_if_straight_line.py)
 |--| [Perform String Shifts]() | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/perform_string_shifts.py)
 |--| [Leftmost Column with at Least a One]() | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/leftmost_column_with_at_least_a_one.py)
 |--| [First Unique Number]() | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/first_unique_number.py)

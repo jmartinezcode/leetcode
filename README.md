@@ -21,6 +21,7 @@
 |238| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/product_of_array_except_self.py)
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/first_bad_version.py)
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+|367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/valid_perfect_square.py)
 |383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/ransom_note.py)
 |387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/first_unique_character.py)
 |476| [Number Complement](https://leetcode.com/problems/number-complement/) | [Python](https://github.com/jmartinezcode/leetcode/blob/master/python/number_complement.py)
